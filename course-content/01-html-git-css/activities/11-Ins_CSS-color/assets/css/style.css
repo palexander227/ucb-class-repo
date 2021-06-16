@@ -1,20 +1,26 @@
-.section {
+section {
   /*Sets the height and width of the section */
   width: 200px;
   height: 200px;
 }
 
-/*.box-green {
 
-  
+/*.box-green {  
   background-color: green;
 }*/
 
+#box-green {
+  background-color: green;
+}
+
+
+
 .box-blue {
   /* Sets font color */
+  /*height: 300px;*/
   color: white;
   /* Sets background color */
-  background-color: #0000ff;
+  background-color: blue;
 }
 
 .box-orange {

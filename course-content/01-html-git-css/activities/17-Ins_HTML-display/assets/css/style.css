@@ -47,6 +47,9 @@ section {
 }
 
 /* Sets display of all elements with class selector to inline */
+/*visibility: hidden; visibility: hidden;hide the element takes up the same amount of the same amount of space*/
+/*display: none;Hides element as if it's not there (compare with "visibility: hidden;").*/
+
 .display-none {
   display: none;
   /*visibility: hidden;*/
